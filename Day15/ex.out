@@ -1,0 +1,30 @@
+Box is not blocked:  [(4, 3)]
+Box is not blocked:  [(6, 4)]
+Box is not blocked:  [(5, 5)]
+Box is blocked
+Box is not blocked:  [(7, 5)]
+Box is not blocked:  [(8, 5)]
+Box is not blocked:  [(7, 2), (7, 3)]
+Box is not blocked:  [(7, 3)]
+Box is blocked
+Box is blocked
+Box is blocked
+Box is blocked
+Box is not blocked:  [(6, 1), (5, 1)]
+Box is not blocked:  [(5, 1)]
+Box is blocked
+Box is blocked
+Box is not blocked:  [(6, 7), (7, 7)]
+Box is not blocked:  [(3, 6)]
+Box is not blocked:  [(4, 7)]
+Box is not blocked:  [(2, 7)]
+Box is not blocked:  [(3, 8)]
+Box is not blocked:  [(3, 3)]
+Box is not blocked:  [(1, 6)]
+Box is blocked
+Box is blocked
+Box is blocked
+Box is not blocked:  [(1, 3)]
+Box is not blocked:  [(3, 2)]
+Box is blocked
+1523
